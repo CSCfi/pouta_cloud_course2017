@@ -1,5 +1,5 @@
 # pouta_cloud_course2017
-Pouta Cloud Course
+Pouta Cloud Course:
 This course will give a practical introduction to using CSC's cloud service cPouta.
 
 cPouta cloud in short:
